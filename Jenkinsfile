@@ -8,7 +8,7 @@ node('php') {
                  doGenerateSubmoduleConfigurations: false,
                  extensions: [],
                  submoduleCfg: [],
-                 userRemoteConfigs: [[url: 'https://github.com/dougvigliazzi/php-code-pipeline']]]
+                 userRemoteConfigs: [[url: 'https://github.com/dougvigliazzi/php-code-pipeline.git']]]
         )
     }
 
